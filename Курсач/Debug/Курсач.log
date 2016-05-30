@@ -1,0 +1,79 @@
+﻿Построение начато 02.06.2015 15:21:43.
+     1>Проект "D:\проги\КурсачОС\Курсач\Курсач\Курсач.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Курсач.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "Курсач.cpp"
+         Курсач.cpp
+     1>Курсач.cpp(323): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(454): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(593): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(594): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(624): warning C4804: <=: небезопасное использование типа "bool" в операции
+     1>Курсач.cpp(766): warning C4804: <=: небезопасное использование типа "bool" в операции
+     1>Курсач.cpp(909): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(910): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(943): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1079): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1217): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1218): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1248): warning C4804: <=: небезопасное использование типа "bool" в операции
+     1>Курсач.cpp(1391): warning C4804: <=: небезопасное использование типа "bool" в операции
+     1>Курсач.cpp(1535): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1536): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1550): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1552): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1554): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1556): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1558): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1561): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1564): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1567): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1570): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1572): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1574): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1576): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1578): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1580): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1583): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1585): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1587): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1589): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1591): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1602): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1609): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1616): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1623): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1668): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1670): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1672): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1674): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1676): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1679): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1682): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1685): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1688): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1690): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1692): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1694): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1696): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1698): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1701): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1703): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1705): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1707): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1711): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1722): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1729): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1736): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+     1>Курсач.cpp(1743): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\проги\КурсачОС\Курсач\Debug\Курсач.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\проги\КурсачОС\Курсач\Debug\Курсач.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         "Debug\Курсач.obj"
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Курсач.vcxproj -> D:\проги\КурсачОС\Курсач\Debug\Курсач.exe
+     1>Построение проекта "D:\проги\КурсачОС\Курсач\Курсач\Курсач.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.84
